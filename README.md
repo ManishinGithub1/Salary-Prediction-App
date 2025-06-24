@@ -1,1 +1,1 @@
-# Sales-Predictor
+# Salary Prediction using SLR
