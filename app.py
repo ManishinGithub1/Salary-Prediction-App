@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 
-model=pickle.load(open(r"C:\Users\ymani\Full Stack Data Science\Salary_Prediction_App\linear_model.pkl",'rb'))
+model=pickle.load(open(r"C:\Users\ymani\Full Stack Data Science\Resume Projects\Machine Learning\Salary_Prediction_App\linear_model.pkl",'rb'))
 
 st.title('Salary Prediction App')
 
